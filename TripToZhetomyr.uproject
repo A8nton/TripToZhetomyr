@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "PixelTools",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/32fd29e6566d4e84beafaf3726480108",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android",
+				"Linux",
+				"LinuxArm64"
+			]
+		}
+	]
+}
