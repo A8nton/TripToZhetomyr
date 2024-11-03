@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/user/Documents/TripToZhetomyr/Content/InDevelop/Levels/main_menu_level.umap",
+				"C:/Users/user/Documents/TripToZhetomyr/Content/InDevelop/UI/Main_menu/main_menu.uasset",
+				"C:/Users/user/Documents/TripToZhetomyr/Content/InDevelop/UI/Main_menu/Main_menu_gamemode.uasset",
+				"C:/Users/user/Documents/TripToZhetomyr/Content/InDevelop/Models/Props/Food/Cola/Red.uasset",
 				"C:/Users/anton/Documents/Unreal Projects/TripToZhetomyr/Content/Addons/GoodSky/Maps/Level_GoodSky_Showcase.umap",
 				"C:/Users/anton/Documents/Unreal Projects/TripToZhetomyr/Content/Addons/GoodSky/Blueprint/BP_GoodSky.uasset",
 				"C:/Users/anton/Documents/Unreal Projects/TripToZhetomyr/Content/Addons/GoodSky/Resource/Textures/T_GoodSky_clouds_E.uasset",
